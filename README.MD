@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover_podcast.png"
+    src="./assets/cover_podcast.jpg"
     width="300"
 />
 </p>
